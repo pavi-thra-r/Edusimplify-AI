@@ -1,0 +1,12 @@
+{
+  "name": "EduSimplify AI",
+  "description": "AI-powered Course Content Simplification Agent for personalized and inclusive learning.",
+  "version": "1.0.0",
+  "main": "app.py",
+  "technology": [
+    "Python",
+    "Streamlit",
+    "AI",
+    "PDF Processing"
+  ]
+}
